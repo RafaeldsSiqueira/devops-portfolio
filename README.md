@@ -14,7 +14,7 @@
 - ♾️ **Cultura & Práticas DevOps:** Focado em aplicar metodologias ágeis e de modernização, trabalhando ativamente com **Containers (Docker/Kubernetes)**, pipelines de **CI/CD** e **Infraestrutura como Código (IaC)**.
 - ☁️ **Ambientes Cloud:** Estudando e implementando soluções distribuídas em provedores de nuvem como **AWS, GCP e OCI (Oracle Cloud)**.
 - 🤖 **AIOps & Automação:** Entusiasta da intersecção entre DevOps e I.A., explorando o desenvolvimento de agentes (n8n, Python) para automatizar fluxos de trabalho e rotinas de infraestrutura.
-- 📫 Como falar comigo: **[Seu Email ou Link do LinkedIn]**
+- 📫 Como falar comigo: ✉️ **[rafaeldasilvasiqueira@yahoo.com.br](mailto:rafaeldasilvasiqueira@yahoo.com.br)** | 💼 **[Acesse meu LinkedIn](https://www.linkedin.com/in/rafael-da-silva-siqueira/)**
 
 ---
 
@@ -26,8 +26,8 @@
 * **Nível 5 e 6:** Orquestração (Kubernetes) e Observabilidade (Prometheus, Grafana, Zabbix).
 * **Engenharia de Agentes:** Automação inteligente, LangChain e fluxos no n8n.
 
-🔗 **[Acesse meu Portfólio Central de DevOps](https://github.com/SEU_USUARIO/devops-portfolio)**
-🔗 **[Acesse meu Portfólio Central de Agentes I.A.](https://github.com/SEU_USUARIO/ai-agents-portfolio)**
+🔗 **[Acesse meu Portfólio Central de DevOps](https://github.com/RafaeldsSiqueira/devops-portfolio)**
+🔗 **[Acesse meu Portfólio Central de Agentes I.A.](https://github.com/RafaeldsSiqueira/ai-agents-portfolio)**
 
 ---
 
@@ -58,16 +58,16 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaeldsSiqueira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldsSiqueira&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" width="48%" />
 </p>
 
 ---
 ### 🐍 Histórico de Contribuições (CI/CD Automático)
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaeldsSiqueira/RafaeldsSiqueira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaeldsSiqueira/RafaeldsSiqueira/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RafaeldsSiqueira/RafaeldsSiqueira/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
