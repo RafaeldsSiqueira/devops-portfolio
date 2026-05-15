@@ -56,11 +56,11 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Meu Gráfico de Contribuições 3D
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaeldsSiqueira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeldsSiqueira&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" width="48%" />
+  <img src="https://raw.githubusercontent.com/RafaeldsSiqueira/RafaeldsSiqueira/main/profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D de Contribuições" />
 </p>
+
 
 ---
 ### 🐍 Histórico de Contribuições (CI/CD Automático)
