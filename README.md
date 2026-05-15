@@ -1,7 +1,6 @@
-<img width="2804" height="1536" alt="Gemini_Generated_Image_pz7jz9pz7jz9pz7j" src="https://github.com/user-attachments/assets/4a6b9090-3a25-461e-b112-398f52a18ada" />
 <!-- BANNER PRINCIPAL (Sua imagem do DevOps & AIOps) -->
 <div align="center">
-  <img src="COLE_O_LINK_DESTA_IMAGEM_AQUI" alt="Banner DevOps e AIOps" width="100%" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/4a6b9090-3a25-461e-b112-398f52a18ada" alt="Banner DevOps e AIOps" width="100%" height="350" style="object-fit: cover; object-position: center; border-radius: 10px;">
 </div>
 
 <h1 align="center">
