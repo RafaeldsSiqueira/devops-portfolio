@@ -2,18 +2,20 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Roda automaticamente a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
     - main
 
+# 👇 ISSO RESOLVE O ERRO 128 DA COBRINHA
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Gera a animação da cobrinha a partir dos seus commits
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -23,7 +25,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Salva (push) a imagem gerada em uma branch separada chamada 'output'
       - name: Push snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
