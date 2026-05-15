@@ -1,11 +1,10 @@
-<!-- BANNER PRINCIPAL (Sua imagem do DevOps & AIOps) -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4a6b9090-3a25-461e-b112-398f52a18ada" alt="Banner DevOps e AIOps" width="100%" height="350" style="object-fit: cover; object-position: center; border-radius: 10px;">
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C%20eu%20sou%20o%20Rafael%21;Engenheiro%20DevOps%20e%20Cloud;Foco%20em%20Linux%20e%20Redes;Integra%C3%A7%C3%A3o%20com%20I.A.%20e%20Agentes" alt="Typing SVG" />
 </h1>
+
+<img width="3808" height="1120" alt="Gemini_Generated_Image_rtwrqgrtwrqgrtwr" src="https://github.com/user-attachments/assets/31986b79-87bd-4ed3-be55-fe2ffca7fc57" /><!-- BANNER PRINCIPAL (Sua imagem do DevOps & AIOps) -->
+<div align="center">
+
 
 <div align="center">
   <p>Profissional focado em Infraestrutura, Automação e Cultura DevOps. Combinando uma base sólida em sistemas com modernização na nuvem e Inteligência Artificial.</p>
